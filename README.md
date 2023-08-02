@@ -1,5 +1,9 @@
+# Optimal Control
+This project focuses on developing mathematical methods and algorithms for analyzing and designing optimal control systems. 
+
+
 # Mathematical Control Theory
-This project focuses on developing mathematical methods and algorithms for analyzing and designing control systems. 
+
 The project aims to contribute to ongoing research efforts in mathematical control theory and provide new insights into the analysis and design of nonlinear control systems.
 The project will involve the following research topics:
 - Mathematical Control Theory
