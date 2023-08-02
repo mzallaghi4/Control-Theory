@@ -17,6 +17,7 @@ This part focuses on developing mathematical methods and algorithms for analyzin
 
 
 
+# Opitmal Control
  
 
 # Numerical Optimal Control
