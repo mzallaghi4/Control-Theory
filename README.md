@@ -38,4 +38,5 @@ This part contains the following numerical methods for solving optimal control p
  
  
  ### Link
-www.mzallaghi4.github.io/mathematical-control-theory
+
+https://mzallaghi4.github.io/Optimal-Control/
