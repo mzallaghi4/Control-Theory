@@ -34,7 +34,13 @@ This part contains the following numerical methods for solving optimal control p
    - find an optimal solution with satisfying optimality conditions
    - Reduce the optimal control problem to a Boundary Value Problem (BVP)
 
- 
+
+## Reinforcement Learning for Control System 
+
+Feedback-driven machine learning approach for optimal control problems.
+
+link:....
+
  
  
  ### Link
