@@ -54,8 +54,8 @@ Generally these methods are based on the following approach:
 - Policy based method
 - Actor-Critic (combination of value and policy based method) 
 
-link:.........
-
+[RL for Control]([https://link-url-here.org](https://github.com/mzallaghi4/Optimal-Control/blob/main/RL%20Control/Reinforcement%20Learning%20for%20Control.md)https://github.com/mzallaghi4/Optimal-Control/blob/main/RL%20Control/Reinforcement%20Learning%20for%20Control.md)
+ 
  
  
  ### Link
