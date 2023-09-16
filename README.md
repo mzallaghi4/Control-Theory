@@ -28,18 +28,33 @@ This part contains the following numerical methods for solving optimal control p
   - Direct method transformed OCP into finite-dimensional optimization (Nonlinear programming problem (NLP))
   - Direct transcription or First-Discretize-then-Optimize
   - Reduce optimal control problems to an NLP
-  - 
+   
 - **Indirect methods**: 
   Indirect Methods or PMP-based Methods or Variational Methods or First-Optimize-then-Discretize
    - find an optimal solution with satisfying optimality conditions
    - Reduce the optimal control problem to a Boundary Value Problem (BVP)
 
 
-## Reinforcement Learning for Control System 
+## Direct numerical solution for optimal control
+ - Control variable discretization: Shooting methods
+ - State and Control variables discretization: collocation methods (local and global)
+
+Global collocational methods, so-called Pseudospectral Methods
+
+## Reinforcement Learning (RL) for Control System 
 
 Feedback-driven machine learning approach for optimal control problems.
 
-link:....
+##### RL algorithms:
+-- Model-free RL
+-- Model-based RL
+
+Generally these methods are based on the following approach: 
+- Value based method
+- Policy based method
+- Actor-Critic (combination of value and policy based method) 
+
+link:.........
 
  
  
